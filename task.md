@@ -1,6 +1,6 @@
 ## zoom-clone V.0.1
 
-## Adding All Features to be Implemented 
+## Adding All Feature to be Implemented 
 
 Start project with npm init -y ( basic package.json wil be created by this )
 
